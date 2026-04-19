@@ -6,7 +6,7 @@ Generate a Victorian broadsheet newspaper from any git repository's commit histo
 npx git-newspaper
 ```
 
-![preview](https://cdn.jsdelivr.net/npm/git-newspaper/preview.png)
+![preview](https://raw.githubusercontent.com/LordAizen1/git-newspaper/master/preview.png)
 
 Opens `newspaper.html` in your browser, a fully typeset front page built from your actual commits, authors, deleted files, and code churn. No API keys. No LLM. Works offline.
 
